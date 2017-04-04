@@ -12,7 +12,5 @@ print("adding f1")
 
 
 print ('adding f1 second time')
-
 print('cahnges before f2 on master')
-
-print('know making changes in f2')
+print('now making changes in f2')
